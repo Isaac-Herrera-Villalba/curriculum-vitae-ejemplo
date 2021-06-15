@@ -1,0 +1,151 @@
+﻿body {
+    background: #; /* 053C5E*/
+    color: #000000;
+    margin: 0;
+}
+
+.header img {
+    width: 7cm;
+    height: 4.5cm;
+    border-radius: 5cm;
+}
+
+.perfil {
+    width: 5cm;
+    padding: 0.2cm;
+    margin: 0cm;
+    border: 0.1cm solid black;
+    float: right;
+}
+
+.cuerpo_central {
+    width: 21.59cm;
+    height: 27.94cm;
+    background: ffffff;
+    display: inline-block;
+}
+
+    .cuerpo_central .info {
+        width: 37.7cm;
+        height: 7cm;
+        margin: 0cm;
+        background: #ffffff;
+        display: inline-block;
+    }
+
+        .cuerpo_central .info h1 {
+            font-size: 60px;
+            margin: 0cm;
+        }
+
+        .cuerpo_central .info h2 {
+            font-size: 30px;
+            margin: 0cm;
+        }
+
+    .cuerpo_central .horizontal_Uno h2 {
+        width: 45.3cm;
+        height: 1.1cm;
+        margin: 0cm;
+        color: #ffffff;
+        background: #800040;
+        display: inline-block;
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .cuerpo_central .localidad_padre {
+        width: 37.7cm;
+        height: cm;
+        margin: 0cm;
+        display: block;
+        float: left;
+        background: #ffffff;
+        font-size: 22px;
+    }
+
+        .cuerpo_central .localidad_padre .localidad1 p {
+            height: cm;
+            margin: 0cm;
+        }
+
+        .cuerpo_central .localidad_padre .localidad2 p {
+            height: cm;
+            margin: 0cm;
+        }
+
+        .cuerpo_central .localidad_padre .universidad {
+            width: 15cm;
+            height: cm;
+            margin: 0cm;
+            display: block;
+            float:;
+            background: #ffffff;
+            font-size: 22px;
+        }
+
+            .cuerpo_central .localidad_padre .universidad p {
+                float:;
+            }
+
+        .cuerpo_central .localidad_padre .programas {
+            width: 20cm;
+            height: 5cm;
+            display: inline-block;
+            background: #ffffff;
+            font-size: 22px;
+        }
+
+        .cuerpo_central .localidad_padre .programas {
+        }
+
+    .cuerpo_central .horizontalDos h2 {
+        width: 45.3cm;
+        height: 1.1cm;
+        margin: 0;
+        color: #ffffff;
+        background: #800040;
+        display: inline-block;
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .cuerpo_central .empresa {
+        width: 37.7cm;
+        height: cm;
+        margin: cm;
+        background: #ffffff;
+        display: inline-block;
+        font-size: 22px
+    }
+
+.panelIzquierdo {
+    width: 5cm;
+    height: 27.94cm;
+    background: #000000;
+    color: #ffffff;
+    float: left;
+    display: block;
+}
+
+    .panelIzquierdo .caja_vacia {
+        width: 5cm;
+        height: 6.7cm;
+    }
+
+    .panelIzquierdo .idiomas {
+        width: 5cm;
+        height: 11cm;
+        margin: 1cm;
+        float: left;
+    }
+
+    .panelIzquierdo p {
+        margin: 0cm;
+    }
+
+    .panelIzquierdo .estudios_padre {
+        width: 5cm;
+        height: 10cm;
+        margin: 1cm;
+    }
